@@ -2,6 +2,9 @@
 // Introduction //
 //////////////////
 
+1. Project
+https://codepen.io/kevin-lin/pen/qwKXKx
+
 What is React and what is its purpose?
 React is a Javascript library that aims to show content (HTML) to users and handle user interaction 
 

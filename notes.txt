@@ -22,3 +22,6 @@ JSX is a special javascript dialect that tells React how it should render a comp
 The React library contains javascript code that knows what a component is and how to make the components work together
 
 The ReactDOM library will take these components and render them onto the DOM 
+
+Babel
+Not all browsers support the newer versions of javascript, especially not ES2016+. To get around this, we can use a compiler like babel which will convert our code to older ES5 code which is supported by every browser!

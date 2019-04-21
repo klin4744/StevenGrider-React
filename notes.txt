@@ -1,0 +1,21 @@
+///////////////////
+// Introduction //
+//////////////////
+
+What is React and what is its purpose?
+React is a Javascript library that aims to show content (HTML) to users and handle user interaction 
+
+Why didn't we use Redux to make a simple app?
+React works well by itself but it can also work with a tremendous variety of other libraries, packages, servers, and databases. 
+
+What is a Javascript class?
+Javascript class are a part of ES2015 that attaches syntax to javascript that somewhat replicates classes in other languages, not fully. 
+
+React components are made using either Javascript functions or classes 
+
+What is JSX?
+JSX is a special javascript dialect that tells React how it should render a component. It is compiled into regular javascript by babel. 
+
+The React library contains javascript code that knows what a component is and how to make the components work together
+
+The ReactDOM library will take these components and render them onto the DOM 
